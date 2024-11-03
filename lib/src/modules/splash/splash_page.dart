@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_dev_test/src/core/shared/data/state.dart';
 import 'package:flutter_dev_test/src/modules/splash/bloc/splash_bloc.dart';
 import 'package:flutter_dev_test/src/modules/splash/bloc/splash_event.dart';
 import 'package:flutter_modular/flutter_modular.dart';
